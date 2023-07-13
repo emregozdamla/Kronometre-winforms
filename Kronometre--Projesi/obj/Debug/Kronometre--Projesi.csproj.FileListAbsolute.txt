@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Kronometre--Projesi\Kronometre--Projesi\bin\Debug\Kronometre--Projesi.exe.config
+C:\Users\Lenovo\source\repos\Kronometre--Projesi\Kronometre--Projesi\bin\Debug\Kronometre--Projesi.exe
+C:\Users\Lenovo\source\repos\Kronometre--Projesi\Kronometre--Projesi\bin\Debug\Kronometre--Projesi.pdb
+C:\Users\Lenovo\source\repos\Kronometre--Projesi\Kronometre--Projesi\obj\Debug\Kronometre--Projesi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Kronometre--Projesi\Kronometre--Projesi\obj\Debug\Kronometre--Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Kronometre--Projesi\Kronometre--Projesi\obj\Debug\Kronometre__Projesi.Form1.resources
+C:\Users\Lenovo\source\repos\Kronometre--Projesi\Kronometre--Projesi\obj\Debug\Kronometre__Projesi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Kronometre--Projesi\Kronometre--Projesi\obj\Debug\Kronometre--Projesi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Kronometre--Projesi\Kronometre--Projesi\obj\Debug\Kronometre--Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Kronometre--Projesi\Kronometre--Projesi\obj\Debug\Kronometre--Projesi.exe
+C:\Users\Lenovo\source\repos\Kronometre--Projesi\Kronometre--Projesi\obj\Debug\Kronometre--Projesi.pdb
